@@ -11,3 +11,7 @@ Fragment Transitions: Defines navigation actions within the navigation graph to 
 Contains the main activity setup, including the configuration for the side menu and bottom navigation bar. It manages fragment transitions and displays toast messages upon selection.
 # nav_graph.xml:
  Defines the navigation graph with fragments and actions. Actions specify the navigation paths between different fragments. 
+
+
+# Demo
+![Demo](https://github.com/yourusername/yourprojectname/blob/main/demo.gif)

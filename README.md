@@ -13,5 +13,7 @@ Contains the main activity setup, including the configuration for the side menu 
  Defines the navigation graph with fragments and actions. Actions specify the navigation paths between different fragments. 
 
 
+
 # Demo
 ![Demo](https://github.com/yourusername/yourprojectname/blob/main/demo.gif)
+https://github.com/mazambaloch7/Sidemenu_BottomBar/blob/main/demo/Animation.gif

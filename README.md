@@ -14,5 +14,5 @@ Contains the main activity setup, including the configuration for the side menu 
 
 
 # Demo
-![Demo](https://github.com/yourusername/yourprojectname/blob/main/demo.gif)
+! [Demo](https://github.com/yourusername/yourprojectname/blob/main/demo.gif)
 <img src="https://github.com/yourusername/yourprojectname/blob/main/demo.gif" alt="Demo" width="400" height="800"        >
